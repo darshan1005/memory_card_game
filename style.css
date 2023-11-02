@@ -89,6 +89,11 @@ body{
     backface-visibility: hidden;
 }
 
+.footer_tag{
+    text-align: center;
+    color: gray;
+}
+
 .boxOpen::after,.boxMatch::after{
     transform: rotateY(180deg);
 }
